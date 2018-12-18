@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aforge", "aforge\aforge.csproj", "{10E39412-C37B-4E3A-99FF-27DE2DCAA28B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10E39412-C37B-4E3A-99FF-27DE2DCAA28B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10E39412-C37B-4E3A-99FF-27DE2DCAA28B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10E39412-C37B-4E3A-99FF-27DE2DCAA28B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10E39412-C37B-4E3A-99FF-27DE2DCAA28B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E2D67FC-3749-4D1E-A8C1-5BD410C7E3A5}
+	EndGlobalSection
+EndGlobal
